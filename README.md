@@ -10,7 +10,7 @@ To start up a project use Eclipse ide for Enterprise:
       <li>Use default setting and click next till finish, as well as finish</li>
     </ol> 
   </li>
-  <li> Add maven;How to on *[stackoverflow](https://toolsqa.com/maven/how-to-install-maven-eclipse-ide)* </li>
+  <li> Add Maven; see [How to Install Maven in Eclipse IDE](https://toolsqa.com/maven/how-to-install-maven-eclipse-ide) for instructions. </li>
   <li> When downloading code to the computer, in Eclipse go to File > Open project from file system > find a directory(root folder of the project)> click         finish</li>
   <li>Import launch configurations for application and test, named "cocktails - CocktailsApplication.launch" and "CocktailApiE2ETest.launch", respectively:
     <ol>
