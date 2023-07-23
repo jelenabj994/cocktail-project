@@ -26,6 +26,7 @@ To start up a project use Eclipse ide for Enterprise:
   and for CocktailApiE2ETest.jave(right-click > run as > JUnit Test)</li>
 </ol>
 ## What I left out
+
 - Data from third-party service only had the date modified, not the creation date and
 the update date, so I put it into my resource only.
 - Every layer of the application was simple enough, so I did not add any unit tests.
