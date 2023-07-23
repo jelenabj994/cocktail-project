@@ -30,4 +30,4 @@ To start up a project use Eclipse ide for Enterprise:
 - Data from third-party service only had the date modified, not the creation date and
 the update date, so I put it into my resource only.
 - Every layer of the application was simple enough, so I did not add any unit tests.
-- It has swagger documentation added, once the application started go to 'http://localhost:8080/swagger-ui/index.html' to visit docs.
+- Project has swagger documentation added, once the application started go to 'http://localhost:8080/swagger-ui/index.html' to visit docs.
