@@ -12,6 +12,7 @@ To start up a project use Eclipse ide for Enterprise:
   </li>
   <li> Add Maven; see https://toolsqa.com/maven/how-to-install-maven-eclipse-ide for instructions. </li>
   <li> When downloading code to the computer, in Eclipse go to File > Open project from file system > find a directory(root folder of the project)> click         finish</li>
+  <li>Add lombok: see https://www.baeldung.com/lombok-ide#eclipse</li>
   <li>Import launch configurations for application and test, named "cocktails - CocktailsApplication.launch" and "CocktailApiE2ETest.launch", respectively:
     <ol>
       <li>Go to File > Import... > Run/Debug > Launch Configurations </li>
